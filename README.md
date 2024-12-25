@@ -29,9 +29,7 @@ MAD DOCTOR is an exciting 2D game developed using Unity, where players navigate 
 ```bash
 git clone https://github.com/your-username/MAD-DOCTOR-Game.git
 cd MAD-DOCTOR-Game
-
-
----
+```
 
 ## 🎮 How to Play
 
