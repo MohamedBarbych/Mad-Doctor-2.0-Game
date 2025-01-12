@@ -13,6 +13,11 @@ MAD DOCTOR is an exciting 2D game developed using Unity, where players navigate 
 - 🔐 **Firebase Integration**: Save your progress and access cloud-based features seamlessly.
 
 ---
+##  Screenshots
+
+
+![WhatsApp Image 2025-01-12 at 1 55 46 AM](https://github.com/user-attachments/assets/aeb832ed-bc96-4bea-bb2d-05590ce3c6b0)
+
                                             
 ## 🛠️ Tech Stack
 
